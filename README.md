@@ -29,7 +29,7 @@ I specialize in building clean, user-centric interfaces and backing them up with
 ### 🤝 Connect with Me
 - **LinkedIn:** https://www.linkedin.com/in/gading-abdi-a52738347/
 - **Portfolio:** https://unafri.github.io/
-- **Email:** <a href="mailto:gputraabdi@gmail.com"> gputraabdi@gmail.com </a>
+- **Email:** <a href="mailto:https://gputraabdi@gmail.com"> gputraabdi@gmail.com </a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=unafri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
