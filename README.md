@@ -15,7 +15,7 @@ I specialize in building clean, user-centric interfaces and backing them up with
 **Backend & Database**
 - **Framework:** Laravel (PHP)
 - **Database:** MySQL (Eloquent ORM, Migrations)
-- **Tools:** NPM, Composer, Git/GitHub
+- **Tools:** NPM, Composer
 
 ---
 
